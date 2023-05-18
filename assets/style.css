@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+}
+
+h1 {
+    margin: 20px auto;
+    text-align: center;
+    letter-spacing: .15rem;
+    word-spacing: 1rem;
+}
+
+h2 {
+    margin: 10px auto;
+    text-align: center;
+    letter-spacing: .15rem;
+}
